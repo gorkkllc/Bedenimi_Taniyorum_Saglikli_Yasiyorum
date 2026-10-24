@@ -47,26 +47,6 @@ Proje şu anda geliştirme aşamasındadır. Temel etkileşimler, organ arayüz�
 1. Bu depoyu klonlayın:
    ```bash
    git clone [https://github.com/gorkkllc/Bedenimi_Taniyorum_Saglikli_Yasiyorum.git](https://github.com/gorkkllc/Bedenimi_Taniyorum_Saglikli_Yasiyorum.git)
-Unreal Engine programını açın.
-
-Add local repository (Yerel depo ekle) seçeneğini seçin veya Unreal Proje Tarayıcısı'nı kullanarak proje klasörünü açın.
-
-Ana sahneyi açın ve 2D sistemlerinizi geliştirmeye başlayın!
-
-Proje Yapısı
-Depo, standart Unreal Engine proje yapısını takip eder:
-
-Bedenimi_Taniyorum_Saglikli_Yasiyorum/
-├── Content/
-│   ├── Maps/
-│   ├── Blueprints/
-│   ├── UI/
-│   └── Textures/
-├── Config/
-├── Source/
-└── README.md
-
-Dizin yapısı geliştirme sürecinde değişiklik gösterebilir.
 
 Katkıda Bulunma
 Bu depo, "Bedenimi Tanıyorum ve Sağlıklı Yaşıyorum" projesinin gelişimini belgelemektedir. Öneri, geri bildirim ve katkılarınız memnuniyetle karşılanır.
